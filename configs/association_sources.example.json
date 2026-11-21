@@ -1,0 +1,10 @@
+{
+  "corrections": "approved_corrections.csv",
+  "association": {
+    "internal_long": "internal_phenotype_long.csv",
+    "internal_clinical": "internal_clinical.csv",
+    "external_manifest": "external_membership.csv",
+    "external_features": "external_phenotype_features.csv",
+    "excluded_external_keys": []
+  }
+}

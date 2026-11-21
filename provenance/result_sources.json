@@ -1,0 +1,32 @@
+{
+  "source_hashes": {
+    "prediction_metrics": "9656697d161eebc43785736ce29e5e67fd970e1feda5d91409f7b6edbe4e6722",
+    "paired_intervals": "5e9b1bdb55d62ccae872621d06022bfeeeb759c56f975fe072b2aef8a10d42e8",
+    "broad_qc_metrics": "4a54992e7230caaaadfe6522b30310dc592fc10feddaf1fdce98b1aa99d95777",
+    "associations": "e52d71baf1a477351160ae5315b4fd98d11cca9cedfd318987b60437c0ff642a",
+    "cif_before_fixed_grid_export": "7dc1c2ae6d87d0eebec172f8d43fdda49c78c18ca8cb418a58d268e14ed9b858",
+    "main_tables_source": "f5660a395bfb5050f32ce8ba40ceda7f2f554958fcb71a706edd54048076d577",
+    "supplement_tables_source": "d2480f25fdb0aca0010a6e0c395ffb639ea16b03afd61cba635ae109148a8ee0",
+    "sex_adjusted": "7f3cd630e83a795e6b55e58f31821d855dfcc07ee239cdce2ed1b5347e236865",
+    "broader_sensitivity": "7456ec23c88a938c810986938facb108b2e2c69ffb2333cafafc04005c086c58",
+    "cohort_counts": "e49283ff64b42de7ef43c326b32476579e99875f2970c1d134e4090bfabfe9d4",
+    "current_prediction_source": "777720c3abbde2b06596f3a3f3e410e362725e72bcb5856e225db1359e7abf0e"
+  },
+  "prediction_metric_groups": 56,
+  "paired_comparisons": 20,
+  "broad_qc_metric_groups": 8,
+  "association_groups": 133,
+  "deposited_cif_grid_points": 44,
+  "main_tables": 4,
+  "supplement_tables": 10,
+  "association_population": {
+    "descriptive_external": 203,
+    "outcome_eligible_external": 203,
+    "complete_case_external": 203,
+    "lrr_external": 16,
+    "complete_case_internal": 517,
+    "sensitivity_external_pre_restriction": 206
+  },
+  "software_version": "0.2.3",
+  "manuscript_tables_sha256": "6672e2f28756fb444fdfe3c13790cbab73c5fd8023514e13c8576dd77831d559"
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "alias": "ridge_preprocessing_and_ipcw",
+    "original_sha256": "69a1084afa0cadc2ef4758ffba4e857c366b32efd4e1e5ba36899e3fa04f2d16",
+    "package_module": "src/npc_eitn/_ridge.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "elastic_net_and_matched_eitn",
+    "original_sha256": "cedba8059414513a55911db2b3ed2cabbc018565b171c5965b81d9debcd1dc91",
+    "symbols": [
+      "clinical_mle",
+      "LegacyPrep",
+      "objective",
+      "kkt",
+      "fit_elastic",
+      "estimate",
+      "predict",
+      "diagnostics",
+      "tune"
+    ],
+    "package_module": "src/npc_eitn/_elastic.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "ordinary_joint_selection_m2",
+    "original_sha256": "993c0cf36c0e9f5f3c6bc8b9970137694a1ec65579f554a7fdac7b15ee7fd85b",
+    "symbols": [
+      "JointPrep",
+      "tune",
+      "fitted",
+      "diagnostic"
+    ],
+    "package_module": "src/npc_eitn/_joint.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "folds_and_weighted_auc",
+    "original_sha256": "5c11910c610dd1c7d35f2a38faf6bb1e39c73aae84718e28e0b10cda361185d8",
+    "symbols": [
+      "make_splits",
+      "fast_auc"
+    ],
+    "package_module": "src/npc_eitn/splits.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "registered_image_eitn_extraction",
+    "original_sha256": "c07082bf1f601c07aa09324d79295d06da54a98a0bc93fb8bbbe20a0bc78199d",
+    "symbols": [
+      "ball",
+      "smooth_masked",
+      "crop_slices",
+      "exact_histogram_map_crop",
+      "zscore_pair_crop",
+      "features"
+    ],
+    "package_module": "src/npc_eitn/phenotype.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "cox_landmark_and_cumulative_incidence",
+    "original_sha256": "038e1854df7cc4a738dc48f6743897cf0cd02236d9443c3f5d76ed245287a087",
+    "symbols": [
+      "association",
+      "bh",
+      "aj_at"
+    ],
+    "package_module": "src/npc_eitn/associations.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "paired_expanded_adjustment",
+    "original_sha256": "77a39596ab8f548604f6c3f3bebccaf05e20f1838bbc12be778eb1d79e2d5bce",
+    "package_module": "src/npc_eitn/associations.py",
+    "symbols": [
+      "association_comparisons"
+    ],
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "fixed_prediction_bootstrap",
+    "original_sha256": "092c40c103af9d9ee60633b259fdafc089a72f093a90edd81afc076d48f52516",
+    "package_module": "src/npc_eitn/evaluation.py",
+    "symbols": [
+      "bootstrap"
+    ],
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "analysis_ready_inputs",
+    "original_sha256": "5f82c3250bf78a9792c6130646dab19c564e0577cb45253e28ae403232588134",
+    "package_module": "src/npc_eitn/io.py",
+    "symbols": [
+      "load_cohort"
+    ],
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "approved_clinical_input_overlay",
+    "original_sha256": "334010888abff89e2712a77bc1ba3b73d0b1b77f80fb5f76f3b1f67831bc6df9",
+    "package_module": "src/npc_eitn/prepare.py",
+    "symbols": [
+      "apply_verified_staging"
+    ],
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  },
+  {
+    "alias": "quality_restricted_association_selection",
+    "original_sha256": "b8fc8364d6e6e0ca601dc12018fe96f483b8a5f52a3de6b0f1833f237cb11d02",
+    "package_module": "src/npc_eitn/prepare.py",
+    "transformation": "Numerical implementation or input adapter associated with the named method and source fingerprint."
+  }
+]

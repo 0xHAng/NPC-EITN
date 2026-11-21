@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite the manuscript and this exact software version or commit."
+type: software
+title: "NPC EITN reproducibility code"
+authors:
+  - name: "NPC EITN study authors"
+version: 0.2.3
+date-released: 2026-11-21
+abstract: "Registered-image EITN extraction, association analysis, internally developed four-model prediction, synthetic examples and aggregate references."
+repository-code: "https://github.com/0xHAng/NPC-EITN"
+url: "https://github.com/0xHAng/NPC-EITN/releases/tag/v0.2.3"

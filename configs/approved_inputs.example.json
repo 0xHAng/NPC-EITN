@@ -1,0 +1,11 @@
+{
+  "conventional_features": "conventional_features.json",
+  "expected_counts": {
+    "internal": 372,
+    "external": 197
+  },
+  "cohorts": {
+    "internal": "approved_internal.csv",
+    "external": "approved_external.csv"
+  }
+}

@@ -1,0 +1,3 @@
+center,adjustment,sample,n,events,n_parameters,clinical_columns,hr,low,high,p,status,warnings
+Internal,sex_added,expanded_adjustment,517,53,6.0,age|t_stage|n_stage|log_gtv_volume|sex_male,2.1951730671981613,1.774295831268914,2.7158857672037455,4.4936190799651846e-13,ok,
+Pooled external,sex_added,expanded_adjustment,203,16,6.0,age|t_stage|n_stage|log_gtv_volume|sex_male,1.8061975559934995,1.3019258101047455,2.5057876462364788,0.0004008000551349211,ok,

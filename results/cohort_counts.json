@@ -1,0 +1,14 @@
+{
+  "phenotype_internal": 517,
+  "phenotype_external": 203,
+  "external_A": 124,
+  "external_B": 79,
+  "association_internal_complete": 517,
+  "association_external_complete": 203,
+  "association_external_events": 16,
+  "prediction_internal": 372,
+  "prediction_external": 197,
+  "excluded_from_phenotype_analysis": 3,
+  "sensitivity_external_pre_restriction": 206,
+  "prediction_membership": "Explicit published cohorts supplied through approved inputs"
+}
